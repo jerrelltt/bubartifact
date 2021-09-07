@@ -1,3 +1,3 @@
 # bubartifact
-setDBIPforVMdeploy is run in mysqlvm
-getDBIPdoeVMdeploy is run in bubblevm
+getDBIPfromMysqlvm is run in mysqlvm
+setEnvDBIPforBubblevm is run in bubblevm
